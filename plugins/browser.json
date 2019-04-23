@@ -37,10 +37,10 @@
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.phonegap.mobbywallet"
     },
-    "phonegap-plugin-service-worker": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.phonegap.mobbywallet"
     },
-    "cordova-plugin-whitelist": {
+    "phonegap-plugin-service-worker": {
       "PACKAGE_NAME": "com.phonegap.mobbywallet"
     }
   },
