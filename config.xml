@@ -85,4 +85,5 @@
     <access origin="*" />
     <allow-intent href="*" />
     <plugin name="cordova-plugin-whitelist" spec="~1.3.3" />
+    <plugin name="cordova-plugin-timer" spec="https://github.com/kitolog/cordova-plugin-timer" />
 </widget>
