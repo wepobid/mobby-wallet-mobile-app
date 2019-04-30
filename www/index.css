@@ -22,3 +22,9 @@ noscript > .img-container > img {
   height: 200px;
 }
 
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
