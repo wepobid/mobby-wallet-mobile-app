@@ -1608,12 +1608,12 @@ self.__precacheManifest = [
     "url": "img/hardware.4cacca29.svg"
   },
   {
-    "revision": "2277878728d26db43094059acbf5cc99",
-    "url": "img/magnifier.22778787.svg"
-  },
-  {
     "revision": "85590a8df288fb2d906513b6179cf66b",
     "url": "img/garlands.85590a8d.png"
+  },
+  {
+    "revision": "2277878728d26db43094059acbf5cc99",
+    "url": "img/magnifier.22778787.svg"
   },
   {
     "revision": "c96fee3154e96518769959f530722025",
@@ -4420,16 +4420,16 @@ self.__precacheManifest = [
     "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRyS7m.4124805c.woff2"
   },
   {
-    "revision": "8caa728e7fabd0a8927567953a46e3c2",
-    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.8caa728e.woff2"
+    "revision": "4796177e447f3b52c723b99290d8cdf3",
+    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71n5_zIDQ.4796177e.woff2"
   },
   {
     "revision": "b280867bfa0455ed777288f8e0d9028e",
     "url": "img/AE.b280867b.svg"
   },
   {
-    "revision": "4796177e447f3b52c723b99290d8cdf3",
-    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71n5_zIDQ.4796177e.woff2"
+    "revision": "8caa728e7fabd0a8927567953a46e3c2",
+    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.8caa728e.woff2"
   },
   {
     "revision": "000d94b894c5c47bd0f5fffcd59fee2c",
