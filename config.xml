@@ -13,6 +13,7 @@
     <preference name="ServiceWorker" value="service-worker.js" />
     <preference name="CacheCordovaAssets" value="false" />
     <preference name="Orientation" value="portrait" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
     <platform name="android">
         <icon density="ldpi" src="res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="res/icon/android/drawable-mdpi-icon.png" />
