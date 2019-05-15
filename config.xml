@@ -15,6 +15,7 @@
     <preference name="Orientation" value="portrait" />
     <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="StatusBarStyle" value="default" />
+    <preference name="StatusBarDefaultScrollToTop" value="false" />
     <platform name="android">
         <icon density="ldpi" src="res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="res/icon/android/drawable-mdpi-icon.png" />
