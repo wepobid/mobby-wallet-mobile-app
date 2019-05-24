@@ -22,9 +22,14 @@ noscript > .img-container > img {
   height: 200px;
 }
 
+body {
+  position: fixed;
+}
+
 #app {
   height: 100vh;
   width: 100vw;
+  overflow-y: scroll;
 }
 
 #app > .header {
@@ -37,7 +42,7 @@ noscript > .img-container > img {
 }
 
 #app > .main {
-  padding: 70px 0 70px 0;
+  padding: 70px 0 50px 0;
   min-width: 100%;
   min-height: 100%;
   display: flex;
@@ -47,7 +52,7 @@ noscript > .img-container > img {
 }
 
 #app > .footer {
-  height: 70px;
+  height: 50px;
   z-index: 999;
   position: fixed;
   width: 100%;
