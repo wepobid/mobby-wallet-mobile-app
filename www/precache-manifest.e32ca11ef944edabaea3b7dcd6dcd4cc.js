@@ -1552,12 +1552,12 @@ self.__precacheManifest = [
     "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRyS7m.4124805c.woff2"
   },
   {
-    "revision": "52d8e9296d69a4163e57f2be7f0608fd",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gfD_u50.52d8e929.woff2"
-  },
-  {
     "revision": "444ae007121264bc1969d49b4031f9b2",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gnD_g.444ae007.woff2"
+  },
+  {
+    "revision": "52d8e9296d69a4163e57f2be7f0608fd",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gfD_u50.52d8e929.woff2"
   },
   {
     "revision": "35386154b78d046218fc8f88a44ff515",
