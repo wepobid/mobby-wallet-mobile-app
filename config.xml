@@ -13,6 +13,9 @@
     <preference name="ServiceWorker" value="service-worker.js" />
     <preference name="CacheCordovaAssets" value="false" />
     <preference name="Orientation" value="portrait" />
+    <edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
+        <string>To scan barcodes</string>
+    </edit-config>
     <platform name="android">
         <hook type="before_compile" src="overwrite_beep.js" />
         <icon density="ldpi" src="res/icon/android/drawable-ldpi-icon.png" />
@@ -35,9 +38,6 @@
         <splash density="port-xxxhdpi" src="res/screen/android/drawable-port-xxxhdpi-screen.png" />
     </platform>
     <platform name="ios">
-        <edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
-            <string>To scan barcodes</string>
-        </edit-config>
         <preference name="StatusBarOverlaysWebView" value="false" />
         <preference name="StatusBarBackgroundColor" value="#000000" />
         <icon height="57" platform="ios" src="res/icon/ios/icon.png" width="57" />
