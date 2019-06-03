@@ -2,4 +2,3 @@ platforms/*
 node_modules/
 plugins/*
 www/.git
-package-lock.json
