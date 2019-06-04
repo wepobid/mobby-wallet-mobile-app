@@ -14,11 +14,11 @@
     <preference name="ServiceWorker" value="service-worker.js" />
     <preference name="CacheCordovaAssets" value="false" />
     <preference name="Orientation" value="portrait" />
-    <edit-config target="NSCameraUsageDescription" file="*-Info.plist" mode="merge">
+    <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
         <string>To scan barcodes</string>
     </edit-config>
     <platform name="android">
-        <hook type="before_compile" src="overwrite_beep.js" />
+        <hook src="overwrite_beep.js" type="before_compile" />
         <icon density="ldpi" src="res/icon/android/drawable-ldpi-icon.png" />
         <icon density="mdpi" src="res/icon/android/drawable-mdpi-icon.png" />
         <icon density="hdpi" src="res/icon/android/drawable-hdpi-icon.png" />
@@ -39,7 +39,7 @@
         <splash density="port-xxxhdpi" src="res/screen/android/drawable-port-xxxhdpi-screen.png" />
     </platform>
     <platform name="ios">
-        <preference name="StatusBarOverlaysWebView" value="true" />
+        <preference name="StatusBarStyle" value="lightcontent" />
         <icon height="57" platform="ios" src="res/icon/ios/icon.png" width="57" />
         <icon height="114" platform="ios" src="res/icon/ios/icon@2x.png" width="114" />
         <icon height="40" platform="ios" src="res/icon/ios/icon-40.png" width="40" />
@@ -105,4 +105,5 @@
     <plugin name="phonegap-plugin-service-worker" spec="https://github.com/phonegap/phonegap-plugin-service-worker.git" />
     <plugin name="cordova-plugin-statusbar" spec="~2.4.2" />
     <plugin name="phonegap-plugin-barcodescanner" spec="~8.0.1" />
+    <plugin name="cordova-plugin-qrscanner" spec="~3.0.1" />
 </widget>
