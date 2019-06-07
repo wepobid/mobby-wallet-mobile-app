@@ -10,7 +10,6 @@
     <content src="index.html" />
     <preference name="phonegap-version" value="cli-7.1.0" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="24" />
     <preference name="ServiceWorker" value="service-worker.js" />
     <preference name="CacheCordovaAssets" value="false" />
     <preference name="Orientation" value="portrait" />
