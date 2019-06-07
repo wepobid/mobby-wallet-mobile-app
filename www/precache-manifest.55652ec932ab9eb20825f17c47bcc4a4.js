@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "20aad359e5ccca24bb2519dae0592681",
-    "url": "img/sv.20aad359.svg"
+    "revision": "48eb20047c65ad0ae8e17c89cc9011b1",
+    "url": "img/sm.48eb2004.svg"
   },
   {
     "revision": "95f84509fae8191ea04b3936d704887a",
@@ -12,88 +12,84 @@ self.__precacheManifest = [
     "url": "robots.txt"
   },
   {
-    "revision": "5e684f2a680ca805c9c7",
-    "url": "js/chunk-0f7e72da.785b9a1c.js"
+    "revision": "a270cde5934e7f072273",
+    "url": "js/chunk-0d033d48.81bbff19.js"
   },
   {
     "revision": "211fbd911af073f6999138caefc81125",
     "url": "index.css"
   },
   {
-    "revision": "7199da322709c4ceb2e4",
-    "url": "js/chunk-2cd76f9e.799357da.js"
+    "revision": "8556bba67e1b99ca104d",
+    "url": "js/chunk-0f730794.52bf2157.js"
   },
   {
-    "revision": "dbb0e4b45feb6ae336328ac71d2ab378",
+    "revision": "b582dbb803f98ba5a88e142ca2be0baa",
     "url": "index.html"
   },
   {
-    "revision": "e1547ed49f53056f7fbe",
-    "url": "js/chunk-32f822c6.eb709763.js"
+    "revision": "185377fb4a1e7cff7a4f",
+    "url": "js/chunk-2bea4213.f57848c9.js"
   },
   {
     "revision": "85556bea9c9ec51954bfea42eb238434",
     "url": "img/yt.85556bea.svg"
   },
   {
-    "revision": "42068c910e196956609f",
-    "url": "js/chunk-3b1baf10.9cdcefa6.js"
+    "revision": "642884761f2eee573308",
+    "url": "js/chunk-3b1baf10.9b862519.js"
   },
   {
     "revision": "627ef7137a878c4077b111a344b5761e",
     "url": "img/ua.627ef713.svg"
   },
   {
-    "revision": "69aaec34a2fea54fc081",
-    "url": "js/chunk-3d82b152.2f2195c9.js"
+    "revision": "62bc47ac3fc5a0aafdfb",
+    "url": "js/chunk-3fbfee97.4b64f4ed.js"
   },
   {
     "revision": "332ae30c5777a08d3581a70f3c12b00c",
     "url": "img/xk.332ae30c.svg"
   },
   {
-    "revision": "6878be22de6cc6e43a24",
-    "url": "js/chunk-434ce272.bf8c7878.js"
+    "revision": "a64e597451823ea7dfce",
+    "url": "js/chunk-670921ae.38ed440e.js"
   },
   {
     "revision": "064373582accc9a591d4b62bcd65410e",
     "url": "img/vn.06437358.svg"
   },
   {
-    "revision": "f4758ee718664165f041",
-    "url": "js/chunk-781f689d.630b3f32.js"
+    "revision": "1d0e6fd1bc1c8eeb05dd",
+    "url": "js/chunk-77eb993e.dc190adc.js"
   },
   {
     "revision": "888108d4bbb689a0acb873bbefe9bf0e",
     "url": "img/td.888108d4.svg"
   },
   {
-    "revision": "1769857fb3e213279ea1",
-    "url": "js/chunk-83798018.d0d28bb4.js"
+    "revision": "0c8073d98284056dc351",
+    "url": "js/chunk-a842ad96.e11ae090.js"
   },
   {
     "revision": "e8e39583e336d409f002ce4befb61a56",
     "url": "img/tt.e8e39583.svg"
   },
   {
-    "revision": "f639bbb0d39539e289cc",
-    "url": "js/chunk-aa10c58e.9bb1fe8f.js"
+    "revision": "79641ece5e4f645598d7",
+    "url": "js/chunk-db2f7406.49bf9f87.js"
   },
   {
     "revision": "f4d05f56b92d182344f767567eb17211",
     "url": "img/to.f4d05f56.svg"
   },
   {
-    "revision": "3d3af2f75e63cbc7ae5c",
-    "url": "js/chunk-db2f7406.24593981.js"
+    "revision": "43e401d1a258c712ac8d",
+    "url": "js/vendors.9bde8a07.js"
   },
   {
     "revision": "85d988145f6b49bc537a0ba628b09ce0",
     "url": "img/sx.85d98814.svg"
-  },
-  {
-    "revision": "c2d7c7154c1702c05a39",
-    "url": "js/vendors.ad0d560d.js"
   },
   {
     "revision": "944f62cbefc2607230aa2b16e124413e",
@@ -180,8 +176,12 @@ self.__precacheManifest = [
     "url": "img/sr.6905244b.svg"
   },
   {
-    "revision": "3e6fa9c7a962268ef7ec",
-    "url": "js/app.af1fb34e.js"
+    "revision": "7c6fd849282f0b0b5e12",
+    "url": "js/app.1834d00e.js"
+  },
+  {
+    "revision": "20aad359e5ccca24bb2519dae0592681",
+    "url": "img/sv.20aad359.svg"
   },
   {
     "revision": "902d846415021ba7654c6a099c0f78c2",
@@ -280,24 +280,40 @@ self.__precacheManifest = [
     "url": "img/tj.c8b3c494.svg"
   },
   {
-    "revision": "4b0d23abb80491ea78cd06f4a39fc09b",
-    "url": "img/cf.4b0d23ab.svg"
+    "revision": "16a2cbb1bba4de199d5f698fcf7a9aa7",
+    "url": "img/sd.16a2cbb1.svg"
+  },
+  {
+    "revision": "444ae007121264bc1969d49b4031f9b2",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gnD_g.444ae007.woff2"
+  },
+  {
+    "revision": "0a7c6df06e85d978d096d4d18fd8d43d",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.0a7c6df0.woff2"
+  },
+  {
+    "revision": "01edcaa2e1a294e604797069be073f22",
+    "url": "fonts/JTUSjIg1_i6t8kCHKm459Wdhyzbi.01edcaa2.woff2"
+  },
+  {
+    "revision": "501ce09c42716a2f6e1503a25eb174c9",
+    "url": "fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.501ce09c.woff2"
+  },
+  {
+    "revision": "7272099f51417629cdeb16e49ef4cb2f",
+    "url": "img/et.7272099f.svg"
+  },
+  {
+    "revision": "48651b91715991f28ac67418cececd1f",
+    "url": "img/it.48651b91.svg"
+  },
+  {
+    "revision": "57be4fb254632b463c35f4e6519facd0",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gfD_u50.57be4fb2.woff2"
   },
   {
     "revision": "15c24f7109941777774ddd2c636c6a50",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.15c24f71.woff2"
-  },
-  {
-    "revision": "3c88ee1445d99175425d937bfd8552da",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3g3D_u50.3c88ee14.woff2"
-  },
-  {
-    "revision": "de540e11ae987194dae34a006a03b753",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3gbD_u50.de540e11.woff2"
-  },
-  {
-    "revision": "5b066a032656e19d83c7cbf8515509a1",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3gTD_u50.5b066a03.woff2"
   },
   {
     "revision": "49138b686233f3a1d070a5dd1fbaac27",
@@ -308,44 +324,20 @@ self.__precacheManifest = [
     "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.79982cd1.woff2"
   },
   {
-    "revision": "1c6d39b3c22868b4059dd6f019d6be05",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3gTD_u50.1c6d39b3.woff2"
-  },
-  {
-    "revision": "1d0304677187dcbd41208c9e9afc691c",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3gbD_u50.1d030467.woff2"
-  },
-  {
     "revision": "5b523b9d533f4a209f0ba777c681a9f3",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3gfD_u50.5b523b9d.woff2"
-  },
-  {
-    "revision": "da84db462d5b62eecb38e4373e2d5f0a",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3g3D_u50.da84db46.woff2"
-  },
-  {
-    "revision": "621688d8d799bd3766ed1930f0f66bb7",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gTD_u50.621688d8.woff2"
   },
   {
     "revision": "35386154b78d046218fc8f88a44ff515",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.35386154.woff2"
   },
   {
-    "revision": "1af2c1adf2647578e711b34950a66bb3",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3g3D_u50.1af2c1ad.woff2"
-  },
-  {
-    "revision": "98a085a46ade778123b35685b52c3fe2",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gbD_u50.98a085a4.woff2"
+    "revision": "5ce1a19ea92606e76a148be54561c6b7",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gfD_u50.5ce1a19e.woff2"
   },
   {
     "revision": "260c2ea3ef57feb82251952e605a36d5",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gnD_g.260c2ea3.woff2"
-  },
-  {
-    "revision": "5ce1a19ea92606e76a148be54561c6b7",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gfD_u50.5ce1a19e.woff2"
   },
   {
     "revision": "a54cac9f401f1dc31ee39cef78cac24b",
@@ -364,16 +356,16 @@ self.__precacheManifest = [
     "url": "img/re.85556bea.svg"
   },
   {
-    "revision": "7272099f51417629cdeb16e49ef4cb2f",
-    "url": "img/et.7272099f.svg"
+    "revision": "ec4723caef781f5b55f62621446eecce",
+    "url": "img/copy.ec4723ca.svg"
   },
   {
     "revision": "9d973467517d2bd49d049b22e48cd067",
     "url": "img/sb.9d973467.svg"
   },
   {
-    "revision": "48651b91715991f28ac67418cececd1f",
-    "url": "img/it.48651b91.svg"
+    "revision": "21d20d61988dfe6380d5c232e1ef3707",
+    "url": "img/cw.21d20d61.svg"
   },
   {
     "revision": "8e8dc12114565deebee889359d4522be",
@@ -392,8 +384,8 @@ self.__precacheManifest = [
     "url": "img/im.ea91a326.svg"
   },
   {
-    "revision": "ec4723caef781f5b55f62621446eecce",
-    "url": "img/copy.ec4723ca.svg"
+    "revision": "8caa728e7fabd0a8927567953a46e3c2",
+    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.8caa728e.woff2"
   },
   {
     "revision": "dcb55d4236b9977a909882974a12e924",
@@ -408,8 +400,8 @@ self.__precacheManifest = [
     "url": "img/kz.e08cb0b3.svg"
   },
   {
-    "revision": "21d20d61988dfe6380d5c232e1ef3707",
-    "url": "img/cw.21d20d61.svg"
+    "revision": "4796177e447f3b52c723b99290d8cdf3",
+    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71n5_zIDQ.4796177e.woff2"
   },
   {
     "revision": "9740dff8d9b73d52ba06f50db083c009",
@@ -428,8 +420,8 @@ self.__precacheManifest = [
     "url": "img/no.d27dd8f0.svg"
   },
   {
-    "revision": "b41b5f52dd7dbffc35801da4400b0cd5",
-    "url": "img/gr.b41b5f52.svg"
+    "revision": "3b892623781be87c5d9c0baaf120282f",
+    "url": "fonts/QldKNThLqRwH-OJ1UHjlKGlZ5qg.3b892623.woff2"
   },
   {
     "revision": "82ccb789ebb34e0f1160182f0fbe1301",
@@ -488,28 +480,28 @@ self.__precacheManifest = [
     "url": "img/ge.68bac5b5.svg"
   },
   {
-    "revision": "5a774ea73bf9a1d619122d6cbceb3146",
-    "url": "img/jo.5a774ea7.svg"
+    "revision": "ef6d4ff3d3d1c6073f2e7650eb51a379",
+    "url": "fonts/QldKNThLqRwH-OJ1UHjlKGlX5qhWxg.ef6d4ff3.woff2"
   },
   {
-    "revision": "4660c9208abb997bea0ce38480ec972a",
-    "url": "img/bj.4660c920.svg"
+    "revision": "1af2c1adf2647578e711b34950a66bb3",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3g3D_u50.1af2c1ad.woff2"
   },
   {
     "revision": "df3a0094b63fc45c1eb110b4d26c6323",
     "url": "img/ec.df3a0094.svg"
   },
   {
-    "revision": "01edcaa2e1a294e604797069be073f22",
-    "url": "fonts/JTUSjIg1_i6t8kCHKm459Wdhyzbi.01edcaa2.woff2"
+    "revision": "621688d8d799bd3766ed1930f0f66bb7",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gTD_u50.621688d8.woff2"
   },
   {
     "revision": "925e1976233f901fb547ede1e6f986a8",
     "url": "img/si.925e1976.svg"
   },
   {
-    "revision": "501ce09c42716a2f6e1503a25eb174c9",
-    "url": "fonts/JTUSjIg1_i6t8kCHKm459Wlhyw.501ce09c.woff2"
+    "revision": "da84db462d5b62eecb38e4373e2d5f0a",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3g3D_u50.da84db46.woff2"
   },
   {
     "revision": "5350291f63d5d92b5f6b27cdee9c8c0a",
@@ -520,8 +512,8 @@ self.__precacheManifest = [
     "url": "img/pr.a8d13a30.svg"
   },
   {
-    "revision": "d27dd8f0d5c75aa2f4b709a105127fa1",
-    "url": "img/bv.d27dd8f0.svg"
+    "revision": "1c6d39b3c22868b4059dd6f019d6be05",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3gTD_u50.1c6d39b3.woff2"
   },
   {
     "revision": "16bd1441fe1df485b8fd467077e169e5",
@@ -532,8 +524,8 @@ self.__precacheManifest = [
     "url": "img/mg.c9dddf98.svg"
   },
   {
-    "revision": "33057972c1dabc7bff6966d92c4904cc",
-    "url": "fonts/JTUSjIg1_i6t8kCHKm459W1hyzbi.33057972.woff2"
+    "revision": "3c88ee1445d99175425d937bfd8552da",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3g3D_u50.3c88ee14.woff2"
   },
   {
     "revision": "24eff4baeeb5ed718e81339b32fce917",
@@ -548,48 +540,48 @@ self.__precacheManifest = [
     "url": "img/ps.8f640b1a.svg"
   },
   {
-    "revision": "58361bc7d889d20e175bfdc4172a1dc7",
-    "url": "fonts/JTUSjIg1_i6t8kCHKm459WRhyzbi.58361bc7.woff2"
+    "revision": "5b066a032656e19d83c7cbf8515509a1",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3gTD_u50.5b066a03.woff2"
   },
   {
     "revision": "7e4c0d86dcf33627148f9cd67bee6b51",
     "url": "img/md.7e4c0d86.svg"
   },
   {
-    "revision": "0a7c6df06e85d978d096d4d18fd8d43d",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.0a7c6df0.woff2"
+    "revision": "d522165aa6f85504dd53c8dc2a95cfe8",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3g3D_u50.d522165a.woff2"
   },
   {
-    "revision": "6926c991d1ea0591d61d5ee7f50420f8",
-    "url": "fonts/JTUSjIg1_i6t8kCHKm459WZhyzbi.6926c991.woff2"
+    "revision": "d5e2bb2d7f32df800a1158ea35014da9",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gTD_u50.d5e2bb2d.woff2"
   },
   {
-    "revision": "85099dfe31ab50dd2b57f7c31dbe9e4a",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3g3D_u50.85099dfe.woff2"
+    "revision": "b41b5f52dd7dbffc35801da4400b0cd5",
+    "url": "img/gr.b41b5f52.svg"
   },
   {
     "revision": "451bfdbae61a4d8d33958163ec41299c",
     "url": "img/mp.451bfdba.svg"
   },
   {
-    "revision": "8228852183cc8260cf8a1ee4d8753a3b",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gfD_u50.82288521.woff2"
+    "revision": "5a774ea73bf9a1d619122d6cbceb3146",
+    "url": "img/jo.5a774ea7.svg"
   },
   {
     "revision": "e0acf82f3f7ad63e199dc32bd148ed26",
     "url": "img/rs.e0acf82f.svg"
   },
   {
-    "revision": "479bfd8827430f84fe5af5c4c87d02be",
-    "url": "img/mw.479bfd88.svg"
+    "revision": "33057972c1dabc7bff6966d92c4904cc",
+    "url": "fonts/JTUSjIg1_i6t8kCHKm459W1hyzbi.33057972.woff2"
   },
   {
     "revision": "7123e46fdb05fa1a3d0c3727dcfe29de",
     "url": "img/ETC-alt.7123e46f.svg"
   },
   {
-    "revision": "38d556a0fcfdb5f45e72a57035e64be3",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gbD_u50.38d556a0.woff2"
+    "revision": "58361bc7d889d20e175bfdc4172a1dc7",
+    "url": "fonts/JTUSjIg1_i6t8kCHKm459WRhyzbi.58361bc7.woff2"
   },
   {
     "revision": "c83597df25f835a5afa01cf39ec8bd59",
@@ -676,16 +668,16 @@ self.__precacheManifest = [
     "url": "img/bo.028edd26.svg"
   },
   {
+    "revision": "85099dfe31ab50dd2b57f7c31dbe9e4a",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3g3D_u50.85099dfe.woff2"
+  },
+  {
     "revision": "dd0d2920f85b3991e44d9a1da3ba39b7",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gTD_u50.dd0d2920.woff2"
   },
   {
-    "revision": "1d73ae275f023f3a1c522e5aee96922f",
-    "url": "img/af.1d73ae27.svg"
-  },
-  {
-    "revision": "e0d6da1f582bc67b4f7c3417441ab805",
-    "url": "img/ly.e0d6da1f.svg"
+    "revision": "4660c9208abb997bea0ce38480ec972a",
+    "url": "img/bj.4660c920.svg"
   },
   {
     "revision": "942d4006b63ff0391cc6020f895bb35b",
@@ -716,8 +708,8 @@ self.__precacheManifest = [
     "url": "img/lr.87cb5124.svg"
   },
   {
-    "revision": "3036121fda54d8332519b81c283b1862",
-    "url": "img/ar.3036121f.svg"
+    "revision": "d27dd8f0d5c75aa2f4b709a105127fa1",
+    "url": "img/bv.d27dd8f0.svg"
   },
   {
     "revision": "5c17b4bb9200288784aca56facada831",
@@ -728,12 +720,12 @@ self.__precacheManifest = [
     "url": "img/fj.b2a36a67.svg"
   },
   {
-    "revision": "6d803365148f3f6970c0f0a49e8539a1",
-    "url": "img/ck.6d803365.svg"
+    "revision": "479bfd8827430f84fe5af5c4c87d02be",
+    "url": "img/mw.479bfd88.svg"
   },
   {
-    "revision": "b8cd2c395f9b807fa8c3779bfbb704a4",
-    "url": "img/ga.b8cd2c39.svg"
+    "revision": "1d73ae275f023f3a1c522e5aee96922f",
+    "url": "img/af.1d73ae27.svg"
   },
   {
     "revision": "d244e47f7f84c991ccee206f22f842d2",
@@ -808,12 +800,12 @@ self.__precacheManifest = [
     "url": "img/gl.ba08dffb.svg"
   },
   {
-    "revision": "85556bea9c9ec51954bfea42eb238434",
-    "url": "img/mf.85556bea.svg"
+    "revision": "e0d6da1f582bc67b4f7c3417441ab805",
+    "url": "img/ly.e0d6da1f.svg"
   },
   {
-    "revision": "48eb20047c65ad0ae8e17c89cc9011b1",
-    "url": "img/sm.48eb2004.svg"
+    "revision": "98a085a46ade778123b35685b52c3fe2",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_epG3gbD_u50.98a085a4.woff2"
   },
   {
     "revision": "6031b37568c98a98681e9abbc5682596",
@@ -836,8 +828,8 @@ self.__precacheManifest = [
     "url": "img/gs.33cc3eba.svg"
   },
   {
-    "revision": "6031b37568c98a98681e9abbc5682596",
-    "url": "img/kr.6031b375.svg"
+    "revision": "1d0304677187dcbd41208c9e9afc691c",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_c5H3gbD_u50.1d030467.woff2"
   },
   {
     "revision": "6ffb1c1185301cb58fddff5094e66dff",
@@ -864,12 +856,12 @@ self.__precacheManifest = [
     "url": "img/explanation2.9ad710e3.svg"
   },
   {
-    "revision": "8caa728e7fabd0a8927567953a46e3c2",
-    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71p5_w.8caa728e.woff2"
+    "revision": "de540e11ae987194dae34a006a03b753",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_dJE3gbD_u50.de540e11.woff2"
   },
   {
-    "revision": "4796177e447f3b52c723b99290d8cdf3",
-    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71n5_zIDQ.4796177e.woff2"
+    "revision": "dc68e196170bbe42f648b9283f121ddf",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gbD_u50.dc68e196.woff2"
   },
   {
     "revision": "8eb980396a263c97b0d7bddb4f1385f5",
@@ -880,16 +872,16 @@ self.__precacheManifest = [
     "url": "img/ht.5efda060.svg"
   },
   {
-    "revision": "8ed77d9d7d527d996fc4c00c44cb5663",
-    "url": "img/by.8ed77d9d.svg"
+    "revision": "3036121fda54d8332519b81c283b1862",
+    "url": "img/ar.3036121f.svg"
   },
   {
     "revision": "5027047f70682e2f0c6d64484582e29e",
     "url": "img/mv.5027047f.svg"
   },
   {
-    "revision": "ef807a7f15bce9aafa6b60f13d39d0fb",
-    "url": "img/arrow-left.ef807a7f.svg"
+    "revision": "6926c991d1ea0591d61d5ee7f50420f8",
+    "url": "fonts/JTUSjIg1_i6t8kCHKm459WZhyzbi.6926c991.woff2"
   },
   {
     "revision": "6e41aa3c758e40cc126afa4d80bb7158",
@@ -908,8 +900,8 @@ self.__precacheManifest = [
     "url": "img/so.26a607c6.svg"
   },
   {
-    "revision": "ef6d4ff3d3d1c6073f2e7650eb51a379",
-    "url": "fonts/QldKNThLqRwH-OJ1UHjlKGlX5qhWxg.ef6d4ff3.woff2"
+    "revision": "38d556a0fcfdb5f45e72a57035e64be3",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gbD_u50.38d556a0.woff2"
   },
   {
     "revision": "834467b7d6add07b9994de1878d9473e",
@@ -940,20 +932,20 @@ self.__precacheManifest = [
     "url": "img/nl.6e0a056a.svg"
   },
   {
-    "revision": "3b892623781be87c5d9c0baaf120282f",
-    "url": "fonts/QldKNThLqRwH-OJ1UHjlKGlZ5qg.3b892623.woff2"
+    "revision": "6d803365148f3f6970c0f0a49e8539a1",
+    "url": "img/ck.6d803365.svg"
   },
   {
     "revision": "9fa6c690c05867c2240c179909de5f85",
     "url": "img/lv.9fa6c690.svg"
   },
   {
-    "revision": "c1ff9b31058e61ba62bc63847922346a",
-    "url": "img/ad.c1ff9b31.svg"
+    "revision": "4b0d23abb80491ea78cd06f4a39fc09b",
+    "url": "img/cf.4b0d23ab.svg"
   },
   {
-    "revision": "16a2cbb1bba4de199d5f698fcf7a9aa7",
-    "url": "img/sd.16a2cbb1.svg"
+    "revision": "8228852183cc8260cf8a1ee4d8753a3b",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_cJD3gfD_u50.82288521.woff2"
   },
   {
     "revision": "303ef8aca78c59b4c1298b15c86d9c01",
@@ -968,8 +960,8 @@ self.__precacheManifest = [
     "url": "img/ao.3cceba75.svg"
   },
   {
-    "revision": "eb589fd392fa8993f732c0ab440cf378",
-    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71m5_zIDQ.eb589fd3.woff2"
+    "revision": "b8cd2c395f9b807fa8c3779bfbb704a4",
+    "url": "img/ga.b8cd2c39.svg"
   },
   {
     "revision": "094c43957ce65c9a68f6f0c9a6f9a529",
@@ -980,12 +972,12 @@ self.__precacheManifest = [
     "url": "img/cx.09db1384.svg"
   },
   {
-    "revision": "b7bee6ad7e9ef295fc7b4eb663c4a395",
-    "url": "fonts/QldKNThLqRwH-OJ1UHjlKGlW5qhWxg.b7bee6ad.woff2"
+    "revision": "eb589fd392fa8993f732c0ab440cf378",
+    "url": "fonts/QldXNThLqRwH-OJ1UHjlKGHiw71m5_zIDQ.eb589fd3.woff2"
   },
   {
-    "revision": "d27dd8f0d5c75aa2f4b709a105127fa1",
-    "url": "img/sj.d27dd8f0.svg"
+    "revision": "b7bee6ad7e9ef295fc7b4eb663c4a395",
+    "url": "fonts/QldKNThLqRwH-OJ1UHjlKGlW5qhWxg.b7bee6ad.woff2"
   },
   {
     "revision": "d9b19b4ff2192d8a61bd513b8a08a668",
@@ -1016,12 +1008,12 @@ self.__precacheManifest = [
     "url": "img/ETH-alt.32708c79.svg"
   },
   {
-    "revision": "727b534497c77a43dc4c72175ed73bdc",
-    "url": "img/pn.727b5344.svg"
+    "revision": "d27dd8f0d5c75aa2f4b709a105127fa1",
+    "url": "img/sj.d27dd8f0.svg"
   },
   {
-    "revision": "537b07b084349e59e74a378a39673512",
-    "url": "img/ae.537b07b0.svg"
+    "revision": "727b534497c77a43dc4c72175ed73bdc",
+    "url": "img/pn.727b5344.svg"
   },
   {
     "revision": "94e4ca9e5f68745ecc6f103e0f1c752f",
@@ -1032,8 +1024,8 @@ self.__precacheManifest = [
     "url": "img/br.aa1e61da.svg"
   },
   {
-    "revision": "4ebd9325eca6b61ec0386326bf1d757d",
-    "url": "img/sg.4ebd9325.svg"
+    "revision": "537b07b084349e59e74a378a39673512",
+    "url": "img/ae.537b07b0.svg"
   },
   {
     "revision": "f267ab85b98d92f923a591316c96f360",
@@ -1108,8 +1100,8 @@ self.__precacheManifest = [
     "url": "img/ki.472c5f4a.svg"
   },
   {
-    "revision": "797c586f8ed6aa595cf736236dfade12",
-    "url": "img/en-GB.797c586f.svg"
+    "revision": "4ebd9325eca6b61ec0386326bf1d757d",
+    "url": "img/sg.4ebd9325.svg"
   },
   {
     "revision": "e11a06929526542b4285f1017fb065c6",
@@ -1172,8 +1164,8 @@ self.__precacheManifest = [
     "url": "img/sh.2e9c71c7.svg"
   },
   {
-    "revision": "148fd8667c283fb027a815dba407399c",
-    "url": "img/ETC.148fd866.svg"
+    "revision": "797c586f8ed6aa595cf736236dfade12",
+    "url": "img/en-GB.797c586f.svg"
   },
   {
     "revision": "dfa513c1f67f800ad6bdee7cb0b082cf",
@@ -1200,8 +1192,8 @@ self.__precacheManifest = [
     "url": "img/short-hand-logo-white.fa0f5f69.png"
   },
   {
-    "revision": "2e9c71c7514c4036f0122b1bdc202c17",
-    "url": "img/gb.2e9c71c7.svg"
+    "revision": "148fd8667c283fb027a815dba407399c",
+    "url": "img/ETC.148fd866.svg"
   },
   {
     "revision": "bcd1bda531d3d568826424f779dab941",
@@ -1228,8 +1220,8 @@ self.__precacheManifest = [
     "url": "img/au.53942d2f.svg"
   },
   {
-    "revision": "71aac735c643eb74f3ea551bde788da5",
-    "url": "img/lt.71aac735.svg"
+    "revision": "2e9c71c7514c4036f0122b1bdc202c17",
+    "url": "img/gb.2e9c71c7.svg"
   },
   {
     "revision": "560c2dc8973e89c4d4616240788f7d61",
@@ -1240,8 +1232,8 @@ self.__precacheManifest = [
     "url": "img/eth.7fe75c25.svg"
   },
   {
-    "revision": "bdc52af50cdad5ab6b15006d13be0484",
-    "url": "img/mz.bdc52af5.svg"
+    "revision": "71aac735c643eb74f3ea551bde788da5",
+    "url": "img/lt.71aac735.svg"
   },
   {
     "revision": "6d44f4d2c70fa9880f1a8eceedded5f1",
@@ -1264,12 +1256,16 @@ self.__precacheManifest = [
     "url": "img/bd.2f35de00.svg"
   },
   {
-    "revision": "76a6bba2bc4d01fb7db4b76c3f02482c",
-    "url": "img/BTC-alt.76a6bba2.svg"
+    "revision": "bdc52af50cdad5ab6b15006d13be0484",
+    "url": "img/mz.bdc52af5.svg"
   },
   {
     "revision": "5b00ddbe4d46bb2962b49416fccb6469",
     "url": "img/bl.5b00ddbe.svg"
+  },
+  {
+    "revision": "76a6bba2bc4d01fb7db4b76c3f02482c",
+    "url": "img/BTC-alt.76a6bba2.svg"
   },
   {
     "revision": "68cbe43424c89d45c4d06fda5195fdcd",
@@ -1278,10 +1274,6 @@ self.__precacheManifest = [
   {
     "revision": "1c09f581e6ee93826c5026e315c11e1f",
     "url": "img/pf.1c09f581.svg"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "fonts/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "a814e980a8184e1efa297d90d6284c4c",
@@ -1316,8 +1308,8 @@ self.__precacheManifest = [
     "url": "img/btc.ef11a598.svg"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "fonts/fontawesome-webfont.af7ae505.woff2"
+    "revision": "85556bea9c9ec51954bfea42eb238434",
+    "url": "img/mf.85556bea.svg"
   },
   {
     "revision": "35c4ba4b1c7823b79389e951e61bbb27",
@@ -1368,8 +1360,8 @@ self.__precacheManifest = [
     "url": "img/gu.f7e1c6de.svg"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "fonts/fontawesome-webfont.fee66e71.woff"
+    "revision": "6031b37568c98a98681e9abbc5682596",
+    "url": "img/kr.6031b375.svg"
   },
   {
     "revision": "8608025c1f97ba8c00034f415b2cb8c4",
@@ -1404,16 +1396,16 @@ self.__precacheManifest = [
     "url": "img/network.0435f1e3.svg"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "fonts/fontawesome-webfont.ie.674f50d2.eot"
+    "revision": "8ed77d9d7d527d996fc4c00c44cb5663",
+    "url": "img/by.8ed77d9d.svg"
   },
   {
     "revision": "faebed7b73a7abda2d38bc437eef7689",
     "url": "img/aq.faebed7b.svg"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "fonts/fontawesome-webfont.674f50d2.eot"
+    "revision": "ef807a7f15bce9aafa6b60f13d39d0fb",
+    "url": "img/arrow-left.ef807a7f.svg"
   },
   {
     "revision": "5758d3ecadfca0024d96dbf00d79dba7",
@@ -1432,8 +1424,8 @@ self.__precacheManifest = [
     "url": "img/mr.76ad0dee.svg"
   },
   {
-    "revision": "912ec66d7572ff821749319396470bde",
-    "url": "img/fontawesome-webfont.912ec66d.svg"
+    "revision": "c1ff9b31058e61ba62bc63847922346a",
+    "url": "img/ad.c1ff9b31.svg"
   },
   {
     "revision": "2d2b51ec95ea2c6659e22659ff3ef43b",
@@ -1460,8 +1452,8 @@ self.__precacheManifest = [
     "url": "img/pm.85556bea.svg"
   },
   {
-    "revision": "fcb8c1e593e53ae27dc5494e82779ebd",
-    "url": "img/jm.fcb8c1e5.svg"
+    "revision": "912ec66d7572ff821749319396470bde",
+    "url": "img/fontawesome-webfont.912ec66d.svg"
   },
   {
     "revision": "9046d05b65f1e2a09312d4b827818857",
@@ -1492,80 +1484,88 @@ self.__precacheManifest = [
     "url": "img/en.2e9c71c7.svg"
   },
   {
-    "revision": "7c3ef489ffae0acafcc2bc23c8a7248b",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3g3D_u50.7c3ef489.woff2"
+    "revision": "fcb8c1e593e53ae27dc5494e82779ebd",
+    "url": "img/jm.fcb8c1e5.svg"
   },
   {
-    "revision": "69aaec34a2fea54fc081",
-    "url": "css/chunk-3d82b152.e9867028.css"
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "fonts/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "f4758ee718664165f041",
-    "url": "css/chunk-781f689d.0e433876.css"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "fonts/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "1769857fb3e213279ea1",
-    "url": "css/chunk-83798018.d8298930.css"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "fonts/fontawesome-webfont.674f50d2.eot"
   },
   {
-    "revision": "f639bbb0d39539e289cc",
-    "url": "css/chunk-aa10c58e.297b84eb.css"
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "fonts/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "3d3af2f75e63cbc7ae5c",
-    "url": "css/chunk-db2f7406.b61d6aac.css"
-  },
-  {
-    "revision": "c2d7c7154c1702c05a39",
-    "url": "css/vendors.69ef3918.css"
-  },
-  {
-    "revision": "d522165aa6f85504dd53c8dc2a95cfe8",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3g3D_u50.d522165a.woff2"
-  },
-  {
-    "revision": "df223f2e7d45f30e0b5ca741b471c62a",
-    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRzS7mw9c.df223f2e.woff2"
-  },
-  {
-    "revision": "518d3e608929d89cd5ca45b74ea3345d",
-    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRxC7mw9c.518d3e60.woff2"
-  },
-  {
-    "revision": "23fed596d1d0de41cb0e51e66cfa0f86",
-    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRxi7mw9c.23fed596.woff2"
-  },
-  {
-    "revision": "b377a12d0552817f5de465d89c2d8fdc",
-    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRxy7mw9c.b377a12d.woff2"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "fonts/fontawesome-webfont.ie.674f50d2.eot"
   },
   {
     "revision": "f9ed980ce6432b518fd55139289e0bd7",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gTD_u50.f9ed980c.woff2"
   },
   {
-    "revision": "4124805c0503dbfe42dd67d7f5715964",
-    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRyS7m.4124805c.woff2"
+    "revision": "62bc47ac3fc5a0aafdfb",
+    "url": "css/chunk-3fbfee97.0e433876.css"
+  },
+  {
+    "revision": "1d0e6fd1bc1c8eeb05dd",
+    "url": "css/chunk-77eb993e.d5b90694.css"
+  },
+  {
+    "revision": "0c8073d98284056dc351",
+    "url": "css/chunk-a842ad96.1f921cee.css"
+  },
+  {
+    "revision": "79641ece5e4f645598d7",
+    "url": "css/chunk-db2f7406.b61d6aac.css"
+  },
+  {
+    "revision": "43e401d1a258c712ac8d",
+    "url": "css/vendors.2f73e848.css"
+  },
+  {
+    "revision": "23fed596d1d0de41cb0e51e66cfa0f86",
+    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRxi7mw9c.23fed596.woff2"
   },
   {
     "revision": "f0ddd68069d97e362c411a9e5998d36d",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gbD_u50.f0ddd680.woff2"
   },
   {
+    "revision": "7e631ef7e6c201034727fc05f74d8ae4",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_ZpC3gbD_u50.7e631ef7.woff2"
+  },
+  {
     "revision": "61fcbdbe4c1fde642b6e688b7e1e5b4a",
     "url": "favicon.png"
   },
   {
-    "revision": "6878be22de6cc6e43a24",
-    "url": "css/chunk-434ce272.5726c0f4.css"
+    "revision": "518d3e608929d89cd5ca45b74ea3345d",
+    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRxC7mw9c.518d3e60.woff2"
   },
   {
-    "revision": "52d8e9296d69a4163e57f2be7f0608fd",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gfD_u50.52d8e929.woff2"
+    "revision": "df223f2e7d45f30e0b5ca741b471c62a",
+    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRzS7mw9c.df223f2e.woff2"
   },
   {
-    "revision": "444ae007121264bc1969d49b4031f9b2",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gnD_g.444ae007.woff2"
+    "revision": "b377a12d0552817f5de465d89c2d8fdc",
+    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRxy7mw9c.b377a12d.woff2"
+  },
+  {
+    "revision": "a64e597451823ea7dfce",
+    "url": "css/chunk-670921ae.eb9d491f.css"
+  },
+  {
+    "revision": "7c3ef489ffae0acafcc2bc23c8a7248b",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3g3D_u50.7c3ef489.woff2"
   },
   {
     "revision": "73b58be6a10bc153a70b503f0525858a",
@@ -1576,47 +1576,39 @@ self.__precacheManifest = [
     "url": "fonts/JTURjIg1_i6t8kCHKm45_ZpC3g3D_u50.2c4a676c.woff2"
   },
   {
-    "revision": "bacf32bceb0544ec5579c798b79d20eb",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_ZpC3gfD_u50.bacf32bc.woff2"
+    "revision": "4124805c0503dbfe42dd67d7f5715964",
+    "url": "fonts/JTUQjIg1_i6t8kCHKm45_QpRyS7m.4124805c.woff2"
   },
   {
-    "revision": "7e631ef7e6c201034727fc05f74d8ae4",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_ZpC3gbD_u50.7e631ef7.woff2"
-  },
-  {
-    "revision": "d5e2bb2d7f32df800a1158ea35014da9",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gTD_u50.d5e2bb2d.woff2"
-  },
-  {
-    "revision": "dc68e196170bbe42f648b9283f121ddf",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gbD_u50.dc68e196.woff2"
+    "revision": "52d8e9296d69a4163e57f2be7f0608fd",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_aZA3gfD_u50.52d8e929.woff2"
   },
   {
     "revision": "f0f2716c5fe401d175b88715e7d28685",
     "url": "fonts/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.f0f2716c.woff2"
   },
   {
-    "revision": "57be4fb254632b463c35f4e6519facd0",
-    "url": "fonts/JTURjIg1_i6t8kCHKm45_bZF3gfD_u50.57be4fb2.woff2"
+    "revision": "bacf32bceb0544ec5579c798b79d20eb",
+    "url": "fonts/JTURjIg1_i6t8kCHKm45_ZpC3gfD_u50.bacf32bc.woff2"
   },
   {
-    "revision": "42068c910e196956609f",
+    "revision": "642884761f2eee573308",
     "url": "css/chunk-3b1baf10.c8486428.css"
   },
   {
-    "revision": "e1547ed49f53056f7fbe",
-    "url": "css/chunk-32f822c6.0e433876.css"
+    "revision": "185377fb4a1e7cff7a4f",
+    "url": "css/chunk-2bea4213.53a609c0.css"
   },
   {
-    "revision": "7199da322709c4ceb2e4",
-    "url": "css/chunk-2cd76f9e.1f921cee.css"
+    "revision": "8556bba67e1b99ca104d",
+    "url": "css/chunk-0f730794.a8998a45.css"
   },
   {
-    "revision": "5e684f2a680ca805c9c7",
-    "url": "css/chunk-0f7e72da.53a609c0.css"
+    "revision": "a270cde5934e7f072273",
+    "url": "css/chunk-0d033d48.ecb6d0ad.css"
   },
   {
-    "revision": "3e6fa9c7a962268ef7ec",
-    "url": "css/app.c46e36f2.css"
+    "revision": "7c6fd849282f0b0b5e12",
+    "url": "css/app.6b578e9d.css"
   }
 ];
