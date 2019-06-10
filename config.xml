@@ -105,5 +105,4 @@
     <plugin name="phonegap-plugin-service-worker" spec="https://github.com/phonegap/phonegap-plugin-service-worker.git" />
     <plugin name="cordova-plugin-statusbar" spec="~2.4.2" />
     <plugin name="phonegap-plugin-barcodescanner" spec="~8.0.1" />
-    <plugin name="cordova-plugin-network-information" spec="~2.0.1" />
 </widget>
