@@ -22,12 +22,12 @@
         <icon density="xhdpi" src="res/icon/android/icon_android_xhdpi.png" />
         <icon density="xxhdpi" src="res/icon/android/icon_android_xxhdpi.png" />
         <icon density="xxxhdpi" src="res/icon/android/icon_android_xxxhdpi.png" />
-        <splash density="port-ldpi" src="res/screen/android/drawable-port-ldpi-screen.png" />
-        <splash density="port-mdpi" src="res/screen/android/drawable-port-mdpi-screen.png" />
-        <splash density="port-hdpi" src="res/screen/android/drawable-port-hdpi-screen.png" />
-        <splash density="port-xhdpi" src="res/screen/android/drawable-port-xhdpi-screen.png" />
-        <splash density="port-xxhdpi" src="res/screen/android/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="res/screen/android/drawable-port-xxxhdpi-screen.png" />
+        <splash density="port-ldpi" src="res/screen/android/screen_ldpi.png" />
+        <splash density="port-hdpi" src="res/screen/android/screen_hdpi.png" />
+        <splash density="port-mdpi" src="res/screen/android/screen_mdpi.png" />
+        <splash density="port-xhdpi" src="res/screen/android/screen_xhdpi.png" />
+        <splash density="port-xxhdpi" src="res/screen/android/screen_xxhdpi.png" />
+        <splash density="port-xxxhdpi" src="res/screen/android/screen_xxxhdpi.png" />
     </platform>
     <platform name="ios">
         <preference name="StatusBarBackgroundColor" value="#000000" />
