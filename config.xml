@@ -30,8 +30,9 @@
         <splash density="port-xxxhdpi" src="res/screen/android/screen_xxxhdpi.png" />
     </platform>
     <platform name="ios">
-        <preference name="StatusBarOverlaysWebView" value="true" />
+        <preference name="StatusBarOverlaysWebView" value="false" />
         <preference name="StatusBarStyle" value="lightcontent" />
+        <preference name="StatusBarBackgroundColor" value="#000000" />
         <icon height="40" platform="ios" src="res/icon/ios/icon-ios-20@2x.png" width="40" />
         <icon height="60" platform="ios" src="res/icon/ios/icon-ios-20@3x.png" width="60" />
         <icon height="58" platform="ios" src="res/icon/ios/icon-ios-29@2x.png" width="58" />
