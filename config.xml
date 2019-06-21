@@ -8,7 +8,7 @@
         Mobby Team
     </author>
     <content src="index.html" />
-    <preference name="phonegap-version" value="cli-7.1.0" />
+    <preference name="phonegap-version" value="cli-8.1.1" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="Orientation" value="portrait" />
     <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
