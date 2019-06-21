@@ -14,6 +14,7 @@
     <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
         <string>To scan barcodes</string>
     </edit-config>
+    <preference name="ShowSplashScreenSpinner" value="false"/>
     <platform name="android">
         <hook src="overwrite_beep.js" type="before_compile" />
         <icon density="ldpi" src="res/icon/android/icon_android_ldpi.png" />
