@@ -30,6 +30,7 @@
         <splash density="port-xxxhdpi" src="res/screen/android/screen_xxxhdpi.png" />
     </platform>
     <platform name="ios">
+        <preference name="StatusBarBackgroundColor" value="#ffffff" />
         <icon height="40" platform="ios" src="res/icon/ios/icon-ios-20@2x.png" width="40" />
         <icon height="60" platform="ios" src="res/icon/ios/icon-ios-20@3x.png" width="60" />
         <icon height="58" platform="ios" src="res/icon/ios/icon-ios-29@2x.png" width="58" />
@@ -61,4 +62,5 @@
     <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
     <plugin name="phonegap-plugin-barcodescanner" spec="~8.0.1" />
     <plugin name="cordova-plugin-dialogs" spec="~2.0.1" />
+    <plugin name="cordova-plugin-statusbar" spec="~2.4.4-dev" />
 </widget>
