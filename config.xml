@@ -11,6 +11,7 @@
     <preference name="phonegap-version" value="cli-8.1.1" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="Orientation" value="portrait" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
     <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
         <string>To scan barcodes</string>
     </edit-config>
