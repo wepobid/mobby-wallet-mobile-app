@@ -25,32 +25,6 @@
       StatusBar.overlaysWebView(false);
       StatusBar.backgroundColorByName("black");
       StatusBar.show();
-      var encryptConfig = {
-        clientId: "myAppName",
-        username: "currentUser",
-        password: "currentUserPassword"
-      };
-
-
-      FingerprintAuth.encrypt(encryptConfig, successCallback, errorCallback);
-
-      function successCallback(result) {
-        console.log("successCallback(): " + JSON.stringify(result));
-        if (result.withFingerprint) {
-          console.log("Successfully encrypted credentials.");
-          console.log("Encrypted credentials: " + result.token);
-        } else if (result.withBackup) {
-          console.log("Authenticated with backup password");
-        }
-      }
-
-      function errorCallback(error) {
-        if (error === FingerprintAuth.ERRORS.FINGERPRINT_CANCELLED) {
-          console.log("FingerprintAuth Dialog Cancelled!");
-        } else {
-          console.log("FingerprintAuth Error: " + error);
-        }
-      }
     }, false);</script>
   <script type=application/ld+json>{ "@context" : "http://schema.org" , "@type" : "Organization" , "name" :
     "MyEtherWallet" , "legalName" : "MyEtherWallet Inc" , "url" : "https://www.myetherwallet.com/" , "contactPoint" :
