@@ -25,6 +25,16 @@
       StatusBar.overlaysWebView(false);
       StatusBar.backgroundColorByName("black");
       StatusBar.show();
+      window.plugins.touchid.isAvailable(
+        function (type) { alert(type) }, // type returned to success callback: 'face' on iPhone X, 'touch' on other devices
+        function (msg) { alert('not available, message: ' + msg) } // error handler: no TouchID available
+      );
+      window.plugins.touchid.verifyFingerprintWithCustomPasswordFallbackAndEnterPasswordLabel(
+        'Scan your fingerprint please', // this will be shown in the native scanner popup
+        'Enter PIN', // this will become the 'Enter password' button label
+        function (msg) { alert('ok: ' + msg) }, // success handler: fingerprint accepted
+        function (msg) { alert('not ok: ' + JSON.stringify(msg)) } // error handler with errorcode and localised reason
+      );
     }, false);</script>
   <script type=application/ld+json>{ "@context" : "http://schema.org" , "@type" : "Organization" , "name" :
     "MyEtherWallet" , "legalName" : "MyEtherWallet Inc" , "url" : "https://www.myetherwallet.com/" , "contactPoint" :
